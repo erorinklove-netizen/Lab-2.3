@@ -1,0 +1,19 @@
+﻿  Lab 2.3.cpp
+  Money.cpp
+D:\education\ООП\Lab 2.3\Money.cpp(33,26): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+D:\education\ООП\Lab 2.3\Money.cpp(34,26): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+D:\education\ООП\Lab 2.3\Money.cpp(35,26): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+D:\education\ООП\Lab 2.3\Money.cpp(36,25): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+D:\education\ООП\Lab 2.3\Money.cpp(37,25): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+D:\education\ООП\Lab 2.3\Money.cpp(38,25): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+D:\education\ООП\Lab 2.3\Money.cpp(39,24): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+D:\education\ООП\Lab 2.3\Money.cpp(40,24): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+D:\education\ООП\Lab 2.3\Money.cpp(41,24): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+D:\education\ООП\Lab 2.3\Money.cpp(42,22): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+D:\education\ООП\Lab 2.3\Money.cpp(43,22): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+D:\education\ООП\Lab 2.3\Money.cpp(44,22): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+D:\education\ООП\Lab 2.3\Money.cpp(45,21): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+D:\education\ООП\Lab 2.3\Money.cpp(46,21): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+D:\education\ООП\Lab 2.3\Money.cpp(47,13): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+  Generating Code...
+  Lab 2.3.vcxproj -> D:\education\ООП\Lab 2.3\x64\Debug\Lab 2.3.exe
